@@ -59,12 +59,6 @@ The circuit was successfully simulated and tested, producing a repeating, synchr
 - Migrate to a microcontroller-based version (e.g., Arduino/ESP32) for programmable timing and IoT connectivity
 - Design and etch a permanent PCB for durability
 
-## 👥 Contributors
-
-- Aadith Manu Joshy
-- **Aayushi Michael**
-- Abeina Joseph
-
 Department of Electronics & Computer Engineering, St. Joseph's College of Engineering & Technology, Palai (APJ Abdul Kalam Technological University)
 
 ## 📄 License
