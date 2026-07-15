@@ -34,12 +34,12 @@ Traffic signals play a crucial role in regulating vehicle and pedestrian flow, e
 
 ## 🔌 Circuit Diagram
 
+![Traffic Light 555 Timer Circuit Diagram](circuit-diagram.png)
+
 The main circuit uses two NE555 ICs in astable configuration:
 - **IC1** (100KΩ resistor, 100µF capacitor) → drives the Red LED and powers IC2
 - **IC2** (47KΩ resistor, 100µF capacitor) → drives the Yellow and Green LEDs
 - 330Ω resistors limit current to Red/Yellow LEDs; 180Ω resistor limits current to the Green LED
-
-*(See `circuit-diagram.png` in this repo for the full schematic.)*
 
 ## 🧪 Result
 
